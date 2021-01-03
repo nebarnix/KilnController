@@ -17,21 +17,18 @@ Serial Commands (or use the QT GUI)
 
 Program Summary: <br />
 
-1: SRS Classic Full <br /> <br />
-
+1: SRS Classic Full <br />
 1.1: Ramp 230C, 90min, hold 180 min <br />
 1.2: Ramp 730C, 150min, hold 300 min <br />
 1.3: Ramp cast, 60 min, hold 60 min <br /> <br />
 
-2: Modified SRS Classic for 2in flasks <br /> <br />
-
+2: Modified SRS Classic for 2in flasks <br />
 2.1: Ramp 150C, 60min, hold 120 min <br />
 2.2: Ramp 370C, 60 min, hold 60 min <br />
 2.3: Ramp 730C, 120 min, hold 120 min <br />
 2.4: Ramp cast, 45 min, hold 60 min <br /> <br />
 
-3: Formlabs reccomended 14 hour burnout <br /> <br />
-
+3: Formlabs reccomended 14 hour burnout <br /> 
 3.1: Ramp 177C, 150min, hold 30 min <br />
 3.2: Ramp 730C, 270 min, hold 180 min <br />
 3.3: Ramp cast, 150 min, hold 60 min <br /> <br />
