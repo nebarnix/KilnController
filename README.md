@@ -17,27 +17,27 @@ Serial Commands (or use the QT GUI)
 
 Program Summary:
 
-#: SRS Classic Full
+#: SRS Classic Full<br/>
 
-##: Ramp 230C, 90min, hold 180 min
-##: Ramp 730C, 150min, hold 300 min
-##: Ramp cast, 60 min, hold 60 min
+##: Ramp 230C, 90min, hold 180 min<br/>
+##: Ramp 730C, 150min, hold 300 min<br/>
+##: Ramp cast, 60 min, hold 60 min<br/>
 
-#: Modified SRS Classic for 2in flasks
+#: Modified SRS Classic for 2in flasks<br/>
 
-##: Ramp 150C, 60min, hold 120 min
-##: Ramp 370C, 60 min, hold 60 min
-##: Ramp 730C, 120 min, hold 120 min
-##: Ramp cast, 45 min, hold 60 min
+##: Ramp 150C, 60min, hold 120 min<br/>
+##: Ramp 370C, 60 min, hold 60 min<br/>
+##: Ramp 730C, 120 min, hold 120 min<br/>
+##: Ramp cast, 45 min, hold 60 min<br/>
 
-#: Formlabs reccomended 14 hour burnout
+#: Formlabs reccomended 14 hour burnout<br/>
 
-##: Ramp 177C, 150min, hold 30 min
-##: Ramp 730C, 270 min, hold 180 min
-##: Ramp cast, 150 min, hold 60 min
+##: Ramp 177C, 150min, hold 30 min<br/>
+##: Ramp 730C, 270 min, hold 180 min<br/>
+##: Ramp cast, 150 min, hold 60 min<br/>
 
-#: Plasticast PREHEAT TO 150C!!
-##: Hold at 150C for 60 min
-##: Ramp to 370C, 60 min, hold 60 min
-##: Ramp to 730C, 120 min, hold 120 min
-##: Ramp to cast, 60 min, hold 60 min
+#: Plasticast PREHEAT TO 150C!!<br/>
+##: Hold at 150C for 60 min<br/>
+##: Ramp to 370C, 60 min, hold 60 min<br/>
+##: Ramp to 730C, 120 min, hold 120 min<br/>
+##: Ramp to cast, 60 min, hold 60 min<br/>
